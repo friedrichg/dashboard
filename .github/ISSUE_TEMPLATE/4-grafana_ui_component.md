@@ -13,7 +13,7 @@ Thank you!
 **Why is this component needed**:
 <!-- Explain your use case -->
 ___
- - [ ] Is/could it be used in more than one place in Grafana?
+ - [ ] Is/could it be used in more than one place in the product?
 
 **Where is/could it be used?**:
 
