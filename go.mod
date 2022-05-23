@@ -14,7 +14,7 @@ replace k8s.io/client-go => k8s.io/client-go v0.18.8
 require (
 	cloud.google.com/go/storage v1.14.0
 	cuelang.org/go v0.3.0-beta.6
-	github.com/BurntSushi/toml v0.3.1
+	github.com/BurntSushi/toml v1.1.0
 	github.com/VividCortex/mysqlerr v0.0.0-20170204212430-6c6b55f8796f
 	github.com/aws/aws-sdk-go v1.38.17
 	github.com/beevik/etree v1.1.0
@@ -79,7 +79,7 @@ require (
 	github.com/ua-parser/uap-go v0.0.0-20190826212731-daf92ba38329
 	github.com/uber/jaeger-client-go v2.27.0+incompatible
 	github.com/unknwon/com v1.0.1
-	github.com/urfave/cli/v2 v2.3.0
+	github.com/urfave/cli/v2 v2.8.0
 	github.com/weaveworks/common v0.0.0-20201119133501-0619918236ec
 	github.com/xorcare/pointer v1.1.0
 	github.com/yudai/gojsondiff v1.0.0
